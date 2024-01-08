@@ -23,7 +23,7 @@ menu.items.active.text.color: #ffffff
 ### Window active
 window.active.title.bg: Flat Border Gradient Vertical
 window.active.title.bg.color: #e60000 
-window.active.title.bg.colorTo: #660000
+window.active.title.bg.colorTo: #330000
 window.active.title.bg.border.color: #e60000
 window.active.title.separator.color: #334c62
 
@@ -40,7 +40,7 @@ window.active.grip.bg.border.color: #e60000
 
 window.active.button.unpressed.bg: Flat Border Gradient Vertical
 window.active.button.unpressed.bg.color: #660000
-window.active.button.unpressed.bg.colorTo: #e60000
+window.active.button.unpressed.bg.colorTo: #b30000
 window.active.button.unpressed.bg.border.color: #ff9999
 window.active.button.unpressed.image.color: #ffffff
 
@@ -69,12 +69,13 @@ window.inactive.border.color: #3d3a37
 
 window.inactive.title.bg: Flat Border Gradient Vertical
 window.inactive.title.bg.color: #efece6
-window.inactive.title.bg.colorTo: #d9d2c7
+window.inactive.title.bg.colorTo: #330000
+### #d9d2c7
 window.inactive.title.bg.border.color: #ffffff
 window.inactive.title.separator.color: #9a8e7c
 
 window.inactive.label.bg: Parentrelative
-window.inactive.label.text.color: #000000
+window.inactive.label.text.color: #e6e6e6
 
 window.inactive.handle.bg: Flat Border Solid
 window.inactive.handle.bg.color: #d9d2c7
